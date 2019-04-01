@@ -84,3 +84,13 @@ Alphie - Alex
 Betsy - Robin
 
 Gamal - Yasmine
+
+My cat - mijn kat 
+
+Hannah - Anna 
+
+Señora - Ma'am 
+
+Ms. C - Mvr. C
+
+Jake - Jan
